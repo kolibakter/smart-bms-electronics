@@ -1,1 +1,1 @@
-POWER=+19V,Vbat,BAT+,Vcc,AVcc,Vref,GND
+POWER=+19V,Vsys,BAT+,Vcc,AVcc,Vref,GND
