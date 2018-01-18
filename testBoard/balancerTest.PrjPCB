@@ -242,6 +242,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFRMSJAP
 
+[Document13]
+DocumentPath=smart_bms.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WDHWYIGM
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for balancerTest\Footprint Comparison - smart_bms.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
