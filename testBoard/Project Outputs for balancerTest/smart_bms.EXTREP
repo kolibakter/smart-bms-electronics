@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: smart_bms.GBR   24.01.2018  13:53:21
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GTP                Top Paste                               
+.GPT                Top Pad Master                          
+.GBS                Bottom Solder                           
+.GBL                Bottom Layer                            
+.GTS                Top Solder                              
+.GPB                Bottom Pad Master                       
+.GTO                Top Overlay                             
+.GBO                Bottom Overlay                          
+.GBP                Bottom Paste                            
+.GM1                Mechanical 1                            
+.GKO                Keep-Out Layer                          
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GM3                Mechanical 3                            
+------------------------------------------------------------------------------------------
